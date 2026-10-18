@@ -1,7 +1,7 @@
 # Practical 10: Asynchronous Processing with Event-Driven Architecture
 
 **Course**: Advanced Web Development Frameworks (ITUE301)  
-**Department**: IT/CE/CSE/AIML - CSPIT, CHARUSAT  
+**Department**: CSE - CSPIT, CHARUSAT  
 **Semester**: 5th  
 
 ---
